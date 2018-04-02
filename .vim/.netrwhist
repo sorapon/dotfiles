@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/hondasora/memo'
+let g:netrw_dirhist_2='/home/hondasora/latex'
+let g:netrw_dirhist_3='/home/hondasora/motoman1_ws/src/motion_planning/script'
+let g:netrw_dirhist_4='/home/hondasora/kinectv2'
+let g:netrw_dirhist_5='/home/hondasora/motoman1_ws/src/motion_planning/prediction/recognition'
+let g:netrw_dirhist_6='/home/hondasora/Downloads/algorithms'
+let g:netrw_dirhist_7='/home/hondasora/motoman1_ws/src/motion_planning/prediction2'
